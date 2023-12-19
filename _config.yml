@@ -32,7 +32,7 @@ cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/ahdghasemi
 linkedin: https://www.linkedin.com/in/ahmad-ghasemi-9b14ab40
 #twitter: https://twitter.com/
-email_image: ./assets/img/email.png  # Add this line with the path to your email image
+# email_image: ./assets/img/email.png  # Add this line with the path to your email image
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
