@@ -4,9 +4,9 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Ahmad
-middle_name: R.
-last_name: Name
-email: you@example.com
+middle_name: 
+last_name: Ghasemi
+email: ahmad.ghasemi@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -27,7 +27,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=OJP185IAAAAJ&hl=en
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/ahdghasemi
 linkedin: https://www.linkedin.com/in/ahmad-ghasemi-9b14ab40
