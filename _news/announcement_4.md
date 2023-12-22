@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I served as a reviewer for IEEE Transactions on Wireless Communications. :sparkles:
+I served as a reviewer for IEEE Transactions on Wireless Communications. :pencil:
