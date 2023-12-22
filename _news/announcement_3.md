@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received Travel Grant Award from School of Arts & Sciences, WPI to attend my paper at IEEE AP-S/URSI 2022.! :sparkles: :blush:
+I received Travel Grant Award from School of Arts & Sciences, WPI, to present my paper at IEEE AP-S/URSI 2022.! :dizzy:
