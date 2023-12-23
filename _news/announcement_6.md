@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I served as a reviewer for [IEEE Transactions on Wireless Communications]([https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693]) and [IEEE Transactions on Communications]([https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26]). :pencil:
+I served as a reviewer for <a href="[https://www.pinterest.com](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693)">IEEE Transactions on Wireless Communications</a> and [IEEE Transactions on Communications]([https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26]). :pencil:
