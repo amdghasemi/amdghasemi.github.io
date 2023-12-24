@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <p class="text-success"> <font size="2"> Machine Learning Researcher <br/> 
-                              Efficient & Tiny ML and Generative AI Enthusiast <br/> 
+                              Tiny ML and Generative AI Enthusiast <br/> 
                               </font> </p>
 
 
