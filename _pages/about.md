@@ -33,6 +33,6 @@ I am broadly interested in Machine Learning and Optimization. My current researc
 - Adversarial Attacks on Graph Neural Networks
 - Tiny Computer Vision Models
 
-I previously received a Ph.D. in Data Science at Worcester Polytechnic Institute (WPI) in Augest 2023, and M.S. in Electrical and Computer Engineering at Shiraz University.
+I previously received a Ph.D. in Data Science from Worcester Polytechnic Institute (WPI) in August 2023, and an M.S. in Electrical and Computer Engineering from Shiraz University.
 
 <span style="color: red;">**I am open to collaborate on interesting projects, please feel free to reach out.**.</span>
