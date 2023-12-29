@@ -14,9 +14,8 @@
     - title:  
       items: 
         - Machine Learning 
-        - Energy Efficient Computing
+        - Energy Efficient & Tiny ML 
         - Optimization
-        - Tiny ML
         - Continual Learning
 
 - title: Education
@@ -39,10 +38,10 @@
   contents:
     - title: Lecturer
       institution: Unievrsity of Massachusetts, Amherst
-      year: Sep. 2023 - Present
+      year: 2023 - 2024
       description:
         - Teaching Machine Learning, Deep Learning, and Digital Image Processing.
-        - Efficient & Tiny Machine Learning
+        - Energy Efficient & Tiny Machine Learning
 
     - title: Summer Research Intern
       institution: Worcester Polytechnic Institute (WPI), US
@@ -58,7 +57,7 @@
    
     - title: Teaching Assitant
       institution: Worcester Polytechnic Institute (WPI), US
-      year: Jan. 2019 - Aug. 2023
+      year: 2019 - 2023
       description: 
       - CS/DS 541 (Deep Learning) - Spring 2021
       - DS/MA 517 (Mathematical Foundations For Data Science) - Spring 2020, Fall 2021, Fall 2022
@@ -83,12 +82,13 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2021
+    - year: 2022
       items: 
-        - Awarded Dean's Powell Focht Fellowship for 2021-2022 Academic Year ($54k)
-    - year: 2019
+        - Travel Award for IEEE USNC-URSI conference attendance.
+    
+    - year: 2020
       items: 
-        - Recipiant of Electrical Engineering Departmental Award for Ranking 1st in Bachelor's Program at Tehran Polytechnic University
+        - Charles Kao Best Paper Award, IEEE WOCC, NJ, USA
 
 - title: Extracurricular Activities 
   type: list
