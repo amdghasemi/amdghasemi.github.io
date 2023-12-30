@@ -36,12 +36,19 @@
 - title: Experience
   type: time_table
   contents:
+    - title: ML Consultant
+      institution: SoilX
+      year: 2023 - Present
+      description:
+        - Designing & Developing End-to-end Machine Learning piplines.
+        - Mentoring a cross-functional team comprising data scientists and engineers.
+        
     - title: Lecturer
       institution: Unievrsity of Massachusetts, Amherst
-      year: 2023 - 2024
+      year: 2023 - Present
       description:
         - Teaching Machine Learning, Deep Learning, and Digital Image Processing.
-        - Energy Efficient & Tiny Machine Learning
+        - Energy Efficient & Tiny Machine Learning.
 
     - title: Summer Research Intern
       institution: Worcester Polytechnic Institute (WPI), US
@@ -55,7 +62,7 @@
       description:
         - Worked on graph based machine learning for efficient resource allocation in wireless communications.
    
-    - title: Teaching Assitant
+    - title: Teaching Assistant
       institution: Worcester Polytechnic Institute (WPI), US
       year: 2019 - 2023
       description: 
@@ -66,8 +73,8 @@
       - ECE 2311 (CONTINUOUS-TIME SIGNAL AND SYSTEM ANALYSIS) - Spring 2019
 
     - title: Summer Research Intern
-      institution: Michigan Technological University, US
-      year: Summer 2019
+      institution: Wireless Positioning Lab., Michigan Technological University, US
+      year: Summer 2018
       description:
         - Worked on efficient computer vision for self-driving cars.
         - Deep Learning and Raspberry Pi
