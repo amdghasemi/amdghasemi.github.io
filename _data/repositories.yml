@@ -5,6 +5,7 @@ github_users:
 github_repos:
   - ahdghasemi/Tiny-Graph-Classification-Expressiveness
   - alshedivat/al-folio
+  - ahdghasemi/quantum_transfer_learning
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
