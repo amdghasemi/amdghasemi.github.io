@@ -1,6 +1,5 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ahdghasemi
 
 github_repos:
   - ahdghasemi/Tiny-Graph-Classification-Expressiveness
