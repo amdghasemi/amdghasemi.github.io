@@ -28,10 +28,10 @@ With extensive experience as a Research Scientist in Applied Machine Learning an
 
 I am broadly interested in Machine Learning and Optimization. My current research focus is on **Efficient Deep Learning**, **On-device/Tiny ML**, and **Generative AI**. Here are the research themes that I am currently working on: 
 
-- Tiny Graph Neural Networks
+- Efficient and Tiny Graph Neural Networks
 - Efficient Training and Fine-tuning of Large Models
-- Adversarial Attacks on Graph Neural Networks
 - Tiny Computer Vision Models
+
 
 I previously received a Ph.D. in Data Science from Worcester Polytechnic Institute (WPI) in August 2023, and an M.S. in Electrical and Computer Engineering from Shiraz University.
 
