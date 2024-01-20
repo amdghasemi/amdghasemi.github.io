@@ -40,15 +40,17 @@
       institution: SoilX
       year: 2023 - Present
       description:
-        - Designing & Developing End-to-end Machine Learning pipelines for large multi-model data.
-        - Mentoring a cross-functional team comprising data scientists and engineers.
+        - Designing and implementing efficient Deep Learning and Tiny ML for drones.
+        - Designing & Developing end-to-end machine learning pipelines for large-scale, multi-modal data.
+        - Mentoring a cross-functional team of data scientists and engineers, fostering collaboration and innovation in project development.
         
     - title: Lecturer
       institution: Unievrsity of Massachusetts, Amherst
       year: 2023 - Present
       description:
-        - Teaching Machine Learning, Deep Learning, and Digital Image Processing.
-        - Energy Efficient & Tiny Machine Learning.
+        - Teaching efficient Deep Learning and Tiny Machine Learning.
+        - Instructing digital image processing; covered basic & advanced image processing techniques.
+        - Mentored 4 graduate & 6 undergraduate researchers. 
 
     - title: Summer Research Intern
       institution: Worcester Polytechnic Institute (WPI), US
