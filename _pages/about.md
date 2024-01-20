@@ -26,7 +26,7 @@ I serve as a lecturer in the Department of Electrical and Computer Engineering a
 
 With extensive experience as a Research Scientist in Applied Machine Learning and Deep Learning, my expertise encompasses a broad spectrum of ML/DL domains. I specialize in Graph Neural Networks, Tiny ML, and Computer Vision, consistently pushing the boundaries of these innovative technologies.
 
-I am broadly interested in Machine Learning and Optimization. My current research focus is on **Graph Neural Networks**, **On-device/Tiny ML** and **Generative AI**. Here are the research themes that I am currently working on: 
+I am broadly interested in Machine Learning and Optimization. My current research focus is on **Efficient Deep Learning**, **On-device/Tiny ML**, and **Generative AI**. Here are the research themes that I am currently working on: 
 
 - Tiny Graph Neural Networks
 - Efficient Training and Fine-tuning of Large Models
