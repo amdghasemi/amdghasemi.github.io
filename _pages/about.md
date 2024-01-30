@@ -30,7 +30,7 @@ I am broadly interested in Machine Learning and Optimization. My current researc
 
 - Efficient and Tiny Graph Neural Networks
 - Efficient Training and Fine-tuning of Large Models
-- Tiny Generative Models
+- Efficient Generative Models
 - Tiny Computer Vision Models
 
 
