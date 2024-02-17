@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <p class="text-success"> <font size="2"> Machine Learning Researcher <br/> 
                               Efficient DL, TinyML and Generative AI Enthusiast <br/> 
