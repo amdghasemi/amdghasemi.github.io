@@ -18,7 +18,7 @@ profiles:
   #     <p>123 your address street</p>
   #     <p>Your City, State 12345</p>
   - align: left
-    image: assets/img/WOCC 2020 Charles Kao Best Paper Awards _ Ahmad Ghasemi.pdf
+    image: assets/img/Charles_Kao_Award.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
