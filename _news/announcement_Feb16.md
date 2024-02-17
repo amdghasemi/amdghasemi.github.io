@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our Tiny Graph Neural Network paper is accepted at the 2024 tinyML Research Symposium! :sparkles:
+Our paper on Tiny Graph Neural Network has been accepted for presentation at the 2024 tinyML Research Symposium! :sparkles:
 
