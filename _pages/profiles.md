@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /awards/
+title: awards
+description: 
 nav: true
 nav_order: 6
 
