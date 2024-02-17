@@ -14,7 +14,7 @@ profile:
   more_info: >
     <p>Department of Electrical and Computer Engineering</p>
     <p>University of Massachusetts Amherst</p>
-      <p> <mark> ahmad.ghasemi 'at' gmail 'dot' com </mark> </p>
+      <p> <mark> ahmad.ghasemi (at) gmail [dot] com </mark> </p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
