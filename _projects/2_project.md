@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adversarial attacks against GNNs
+title: Adversarial attacks on GNNs
 description: 
 img: assets/img/AA_GNN.png
 importance: 2
