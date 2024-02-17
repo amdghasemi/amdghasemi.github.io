@@ -1,4 +1,4 @@
- ---
+---
 layout: profiles
 permalink: /awards/
 title: Awards
