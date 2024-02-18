@@ -1,10 +1,8 @@
-## Teaching Experience: Digital Image Processing at UMass
+## Digital Image Processing at UMass
 
-In the Fall of 2023, I had the privilege of instructing a dynamic group of 15 graduate and undergraduate students in a comprehensive **Digital Image Processing** course at the University of Massachusetts (UMass). This course was designed to equip students with both foundational and advanced knowledge in the field of digital image processing, setting them on a path to innovation and exploration in this cutting-edge area.
+In the Fall of 2023, I had the privilege of instructing 15 graduate and undergraduate students in **Digital Image Processing** course at the University of Massachusetts Amherst (UMass Amherst). This course was designed to equip students with both foundational and advanced knowledge in the field of digital image processing.
 
 ### Course Overview
-
-The curriculum was carefully structured to cover a wide range of topics essential for mastering digital image processing, including:
 
 - **Fundamentals of Image Processing**: Students were introduced to the basics of digital images, including image representation, sampling, and quantization. We explored the core concepts necessary to understand how images are processed and analyzed by computers.
 
@@ -26,9 +24,4 @@ The course was not just theoretical; students engaged in hands-on projects using
 
 By the end of the course, students were not only proficient in the technical aspects of digital image processing but were also equipped with the critical thinking and problem-solving skills necessary to apply this knowledge creatively in their future endeavors.
 
-I am incredibly proud of the progress each student made and am excited to see how they will contribute to the field of digital image processing in the future.
-
 ---
-
-For more information about my teaching experiences and other projects, please visit this repository [https://github.com/ahdghasemi](#)
-# [Projects](#) and [Teaching](#).
