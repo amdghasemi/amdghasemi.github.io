@@ -1,6 +1,6 @@
 ## Machine Learning for Engineers
 
-I had the pleasure of instructing a graduate-level course, **Machine Learning for Engineers**, at the University of Massachusetts Amherst (UMass Amherst). This course, with 64 registered students, was meticulously designed to cover the breadth and depth of machine learning, with a special emphasis on its applications in engineering. From foundational principles to cutting-edge technologies, the curriculum was tailored to empower students to harness the potential of machine learning in solving complex engineering challenges.
+I'm instructing a graduate-level course, **Machine Learning for Engineers**, at the University of Massachusetts Amherst (UMass Amherst) this Spring. This course, with 64 registered students, has been meticulously designed to cover the breadth and depth of machine learning, with a special emphasis on its applications in engineering. From foundational principles to cutting-edge technologies, the curriculum has been tailored to empower students to harness the potential of machine learning in solving complex engineering challenges.
 
 ### Course Highlights
 
@@ -22,8 +22,4 @@ The **Machine Learning for Engineers** course offered a robust exploration of ke
 
 ### Hands-On Projects
 
-Practical application was a cornerstone of the course, with projects designed to challenge students to apply machine learning algorithms, including GNNs and LLMs, to real-world engineering problems. These projects fostered not only technical skills but also critical thinking and innovation.
-
-### Outcome
-
-The **Machine Learning for Engineers** course was highly successful, with students gaining not only a comprehensive understanding of machine learning principles and techniques but also practical experience in applying these concepts to engineer solutions.
+Practical application was a cornerstone of the course, with projects designed to challenge students to apply machine learning algorithms, including GNNs and LLMs, to real-world engineering problems. These projects will fostere not only technical skills but also critical thinking and innovation.
