@@ -20,16 +20,10 @@ The **Machine Learning for Engineers** course offered a robust exploration of ke
 
 - **Reinforcement Learning**: We covered the principles of reinforcement learning, including strategy optimization and decision-making in dynamic environments, applicable in robotics and automated systems.
 
-- **Ethics and Responsible AI**: Ethical considerations and the societal impact of AI were integral parts of the curriculum, ensuring students understand the importance of developing fair, accountable, and transparent machine learning systems.
-
 ### Hands-On Projects
 
 Practical application was a cornerstone of the course, with projects designed to challenge students to apply machine learning algorithms, including GNNs and LLMs, to real-world engineering problems. These projects fostered not only technical skills but also critical thinking and innovation.
 
 ### Outcome
 
-The **Machine Learning for Engineers** course was highly successful, with students gaining not only a comprehensive understanding of machine learning principles and techniques but also practical experience in applying these concepts to engineer solutions. Graduates of this course are now well-equipped to lead and innovate in the rapidly evolving field of machine learning.
-
----
-
-Discover more about my approach to teaching and the impact on my students in the [Teaching](#) section of my website.
+The **Machine Learning for Engineers** course was highly successful, with students gaining not only a comprehensive understanding of machine learning principles and techniques but also practical experience in applying these concepts to engineer solutions.
