@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Projects
-permalink: /projects/
-description: This page is currently under construction and not yet complete.
-nav: true
-nav_order: 2
+layout: # page
+title: # Projects
+permalink: # /projects/
+description: # This page is currently under construction and not yet complete.
+nav: # true
+nav_order: # 2
 display_categories: [work, fun]
 horizontal: false
 ---
