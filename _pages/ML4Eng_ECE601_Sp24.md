@@ -16,6 +16,13 @@ The **Machine Learning for Engineers** course offered a robust exploration of ke
 
 - **Graph Neural Networks (GNNs)**: Recognizing the importance of graph-structured data in engineering applications, we delved into GNNs, exploring how they can model relationships and interactions in complex systems, from social networks to molecular structures.
 
+- **TinyML and Machine Learning on the Edge**: Developing efficient, low-power ML models capable of operating on resource-constrained devices. This module covers:
+  1) **Introduction to TinyML**: Provides an overview of the Tiny Machine Learning (TinyML) field, its significance, and its applications in real-world scenarios where computing resources are limited.
+  2) **Quantization and Pruning**: Discusses techniques for reducing model size and computational requirements, making them suitable for edge devices. Students will learn about quantization methods to lower precision and pruning strategies to remove unnecessary weights.
+  3) **Neural Architecture Search (NAS)**: Explores NAS methodologies for automatically designing optimal neural network architectures for specific tasks, emphasizing efficiency and performance on edge devices.
+  4) **Practical Applications**: Includes hands-on projects and case studies demonstrating the deployment of ML models on edge devices, such as smart sensors and IoT devices, to solve engineering challenges with real-time data processing and analysis.
+
+
 - **Large Language Models (LLMs)**: The course provided an in-depth look at the architecture, training, and applications of Large Language Models, such as GPT and BERT. Students learned about the transformative potential of LLMs in generating human-like text, understanding language, and automating tasks in various engineering domains.
 
 - **Reinforcement Learning**: We covered the principles of reinforcement learning, including strategy optimization and decision-making in dynamic environments, applicable in robotics and automated systems.
