@@ -22,7 +22,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a lecturer in the Department of Electrical and Computer Engineering at the University of Massachusetts Amherst (UMass Amherst), where I teach advanced graduate-level courses in efficient machine learning, image processing, and signal processing. Concurrently, I serve as a Machine Learning consultant at SoliX (funded by the USDA), focusing on the development of end-to-end efficient Deep Learning and Tiny Machine Learning pipelines for drone applications.
+I am a lecturer in the Department of Electrical and Computer Engineering at the University of Massachusetts Amherst (UMass Amherst), where I teach advanced graduate-level courses in efficient machine learning, image processing, and signal processing. Concurrently, I serve as a Machine Learning consultant at SoilX (funded by the USDA), focusing on the development of end-to-end efficient Deep Learning and Tiny Machine Learning pipelines for drone applications.
 
 With extensive experience as a Research Scientist in Applied Machine Learning and Deep Learning, my expertise encompasses a broad spectrum of ML/DL domains. I specialize in Graph Neural Networks, Tiny ML, and Computer Vision, consistently pushing the boundaries of these innovative technologies.
 
