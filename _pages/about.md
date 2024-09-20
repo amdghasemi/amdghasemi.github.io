@@ -22,16 +22,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Research Fellow in the Department of Electrical and Computer Engineering at the University of Massachusetts Amherst (UMass Amherst). My work focuses on developing efficient end-to-end Deep Learning and Tiny Machine Learning pipelines for drone applications. Additionally, as a Lecturer at UMass Amherst, I teach advanced graduate courses in efficient machine learning, signal processing, and image processing.
+I am a Research Fellow in the Department of Electrical and Computer Engineering at the University of Massachusetts Amherst (UMass Amherst). My work focuses on developing efficient end-to-end Deep Learning and Tiny Machine Learning pipelines for drone applications and radio resource management. Additionally, as a Lecturer at UMass Amherst, I teach advanced graduate courses in signal processing, efficient machine learning, and image processing.
 
 
 
 With extensive experience as a Research Scientist in Applied Machine Learning and Deep Learning, my expertise encompasses a broad spectrum of ML/DL domains. I specialize in Graph Neural Networks, Tiny ML, and Signal Processing, consistently pushing the boundaries of these technologies.
 
-I am broadly interested in machine learning, optimization, and signal processing. My current research focus is on **Efficient Deep Learning**, **On-device/Tiny ML**, and **Generative AI**. Here are the research themes that I am currently working on: 
+I am broadly interested in machine learning, optimization, and signal processing. My current research focus is on **Efficient Deep Learning**, **On-device/Tiny ML**, and **Generative AI**. I am currently working on the following research themes, applied to radio resource management and drones:
 
-- Efficient and Tiny Graph Neural Networks
-- On-device and Tiny Computer Vision Models
+- Efficient and Tiny Graph Neural Networks 
 - Efficient Training and Fine-tuning of Large Models
 - Efficient Generative Models
 
