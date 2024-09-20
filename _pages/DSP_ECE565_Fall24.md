@@ -12,5 +12,4 @@ This course offers a comprehensive exploration of key DSP concepts and methodolo
 
 - **Sampling and Reconstruction**: Students learn the theory and techniques of converting analog signals into digital form and reconstructing them, emphasizing the importance of Nyquist theory and practical considerations for avoiding aliasing.
 
-- **Linear Algebra for Digital Signal Processing**: Describe a range of signal processing problems using the language of bases and vector spaces, and using the singular value decomposition to solve and analyze a range of least-squares problems
----
+- **Linear Algebra for Digital Signal Processing**: Describe a range of signal processing problems using the language of bases and vector spaces, and using the singular value decomposition to solve and analyze a range of least-squares problems.
