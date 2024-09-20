@@ -25,7 +25,7 @@
       institution: Worcester Polytechnic Institute (WPI), US
       year: 2019-2023
       description:
-        - <u>Major:</u> Deep Learning and Data Science
+        - <u>Major:</u> Deep Learning, Signal Processing, and 5G/6G Communications
    
     - title: MS in Electrical and Computer Engineering
       institution: Shiraz University, Shiraz, Iran
@@ -36,20 +36,14 @@
 - title: Experience
   type: time_table
   contents:
-    - title: ML Consultant
-      institution: SoilX
+    - title: Research Fellow and Lecturer
+      institution: Unievrsity of Massachusetts, Amherst
       year: 2023 - Present
       description:
         - Designing and implementing efficient Deep Learning and Tiny ML for drones.
         - Designing & Developing end-to-end machine learning pipelines for large-scale, multi-modal data.
         - Mentoring a cross-functional team of data scientists and engineers, fostering collaboration and innovation in project development.
-        
-    - title: Lecturer
-      institution: Unievrsity of Massachusetts, Amherst
-      year: 2023 - Present
-      description:
-        - Teaching efficient Deep Learning and Tiny Machine Learning.
-        - Instructing digital image processing; covered basic & advanced image processing techniques.
+        - Teaching Signal Processing and Machine Learning.
         - Mentored 4 graduate & 6 undergraduate researchers. 
 
     - title: Summer Research Internship
@@ -80,6 +74,14 @@
       description:
         - Worked on efficient computer vision for self-driving cars.
         - Deep Learning and Raspberry Pi
+
+    - title: Data Scientist
+      institution: Hormozgan Electricity Distribution Co., Bandar Abbas, Iran
+      year: 2015 - 2019
+      description: 
+      - Led development of advanced models, enhancing predictive accuracy by 30% using ensemble methods and deep learning.
+      - Integrated machine learning technologies across departments, increasing project efficiency by 20%.
+    
 
 - title: Skills 
   type: list
