@@ -13,10 +13,10 @@
   contents:
     - title:  
       items: 
+        - Signal Processing
         - Machine Learning 
         - Energy Efficient & Tiny ML 
         - Optimization
-        - Continual Learning
 
 - title: Education
   type: time_table
