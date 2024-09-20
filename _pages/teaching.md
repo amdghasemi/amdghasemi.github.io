@@ -18,7 +18,7 @@ profiles:
       # <p>123 your address street</p>
       # <p>Your City, State 12345</p>
   - align: left
-    image: DSP_ECE565_Fall24.webp
+    image: DSP_ECE565_Fall24_1.png
     content: DSP_ECE565_Fall24.md
     image_circular: false # crops the image to make it circular
     # more_info: >
