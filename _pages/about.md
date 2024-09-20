@@ -28,7 +28,7 @@ I am a Research Fellow in the Department of Electrical and Computer Engineering 
 
 With extensive experience as a Research Scientist in Applied Machine Learning and Deep Learning, my expertise encompasses a broad spectrum of ML/DL domains. I specialize in Graph Neural Networks, Tiny ML, and Signal Processing, consistently pushing the boundaries of these technologies.
 
-I am broadly interested in machine learning, optimization, and signal processing. My current research focus is on **Efficient Deep Learning**, **On-device/Tiny ML**, and **Generative AI**. I am currently working on the following research themes, applied to **radio resource management** and **drones**:
+I am broadly interested in machine learning, optimization, and signal processing. My current research focus is on **Efficient Deep Learning**, **On-device/Tiny ML**, and **Generative AI**. I am currently working on the following research themes, applied to **Radio Resource Management** and **Drones**:
 
 - Efficient and Tiny Graph Neural Networks 
 - Efficient Training and Fine-tuning of Large Models
